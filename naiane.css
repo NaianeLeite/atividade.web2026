@@ -1,0 +1,78 @@
+body{
+    background-color: blueviolet;
+}
+
+#imagem{
+    height: 200px;
+    width: 200px;
+    border: solid -1px;
+    border-radius: 50%;
+    background-image: url(nai.png);
+    background-size: cover;
+    background-position: 200
+    px;
+    margin:auto;
+}
+#username
+{
+     font-size: 25px;
+    color: aliceblue;
+    text-align: center;
+}
+.botao
+{
+    background-color: white;
+    border-radius: 30px;
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+    width: 400px;
+    margin:auto;
+    margin-top: 10px;
+}
+.botao:hover
+{
+    background-color: #eb2ecb;
+}
+
+.rede
+ {
+    height: 20px;
+    width: 20px;
+    background-image: url(instagran.png);
+    background-size: cover;
+    float: left;
+    margin-left: 20px;
+}
+.zap
+{
+    height: 20px;
+    width: 20px;
+    background-image: url(zap.png);
+    background-size: cover;
+    float: left;
+    margin-left: 20px;
+}
+.twitter{
+    height: 20px;
+    width: 20px;
+    background-image: url(twitter.png);
+    background-size: cover;
+    float: left;
+    margin-left: 20px;
+}
+.facebook{
+    height: 20px;
+    width: 20px;
+    background-image: url(facebook.png);
+    background-size: cover;
+    float: left;
+    margin-left: 20px;
+}
+#conteiner
+{
+    height: 40%;
+    width: 15%;
+    margin: auto;
+    margin-top: 25px;
+}
